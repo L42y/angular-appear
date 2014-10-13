@@ -1,0 +1,23 @@
+{
+  "name": "angular-appear",
+  "main": "angular-appear.js",
+  "authors": [
+    "L42y <423300@gmail.com>"
+  ],
+  "description": "Check if element appears on your screen",
+  "keywords": [
+    "angular"
+  ],
+  "license": "WTFPL",
+  "homepage": "https://github.com/L42y/angular-appear",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "verge": "ryanve/verge#~1.9.1"
+  }
+}
